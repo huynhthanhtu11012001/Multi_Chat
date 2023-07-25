@@ -50,7 +50,7 @@ namespace Server
         void Connect()
         {
             clientList = new List<Socket>();
-            // IP: Địa chị Server
+            // IP: Đợi các client kết nối tới và chấp nhận kết nối
             IP = new IPEndPoint(IPAddress.Any, 9999);
             server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
 

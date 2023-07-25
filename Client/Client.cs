@@ -46,7 +46,7 @@ namespace Client
 
         void Connect()
         {
-            // IP: Địa chị Server
+            // IP: Địa chỉ máy làm Server
             IP = new IPEndPoint(IPAddress.Parse("192.168.1.8"), 9999);
             client = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
 
