@@ -1,0 +1,11 @@
+E:\Multi Chat\Client\bin\Debug\Client.exe.config
+E:\Multi Chat\Client\bin\Debug\Client.exe
+E:\Multi Chat\Client\bin\Debug\Client.pdb
+E:\Multi Chat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Multi Chat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Multi Chat\Client\obj\Debug\Client.Client.resources
+E:\Multi Chat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Multi Chat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Multi Chat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Multi Chat\Client\obj\Debug\Client.exe
+E:\Multi Chat\Client\obj\Debug\Client.pdb
